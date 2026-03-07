@@ -1,4 +1,4 @@
-lasjhcdsdhkcvjzszlckdfvkfdhkvnmndcjhdgcdec# Laporan Praktikum Jaringan Komputer - Modul 2
+Laporan Praktikum Jaringan Komputer - Modul 2
 ## Pengenalan Tools (Wireshark Basics)
 
 ### Identitas Praktikan
