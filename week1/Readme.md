@@ -4,8 +4,8 @@
 ### Identitas Praktikan
 | Item | Keterangan |
 |------|------------|
-| **Nama** | Nuevalen Refitra Alswando |
-| **NIM** | 103072430008 |
+| **Nama** | Laura Chyndearni Saragih |
+| **NIM** | 103072400049 |
 | **Kelas** | IF-04-01 |
 
 ---
@@ -23,13 +23,13 @@ Sebelum memulai praktikum, dilakukan pengecekan dan instalasi tools yang wajib d
 ### 2.1 Wireshark
 Wireshark adalah aplikasi packet sniffer yang digunakan untuk menganalisis protokol jaringan.
 - **Status:** Terinstall ✅
-- **Versi:** [Isi Versi Wireshark Anda, misal: 4.0.3]
+- **Versi:** 4.6.4
 - **Link Download:** [www.wireshark.org](https://www.wireshark.org/)
 
 ### 2.2 Python
 Python digunakan untuk modul Socket Programming.
 - **Status:** Terinstall ✅
-- **Versi:** [Isi Versi Python Anda, misal: 3.11.0]
+- **Versi:** 3.13.7
 - **Link Download:** [www.python.org](https://www.python.org/downloads/)
 
 ---
